@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🎥 My Self Introduction
 
 ▶️ Watch my video:
-[Click here](PASTE_YOUR_VIDEO_LINK)
+[Click here](https://youtu.be/ggzgJRG1M1E?t=30&si=ybuaJ0S4s1vEV0i3)
 
 📁 Download video:
-[Download here](PASTE_YOUR_VIDEO_LINK)
+[Download here](https://github.com/Mohinee824/Mohinee824/blob/main/Selfintro.mp4))
