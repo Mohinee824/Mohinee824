@@ -13,11 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 Hi, I'm Mohinee
-
-## 🎥 My Self Introduction
-
-▶️ Watch my video:
-[Click here](https://youtu.be/ggzgJRG1M1E?t=30&si=ybuaJ0S4s1vEV0i3)
-
-📁 Download video:
-[Download here](https://github.com/Mohinee824/Mohinee824/blob/main/Selfintro.mp4)
